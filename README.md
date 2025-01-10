@@ -7,5 +7,6 @@ An audiomixer assists with volume controls, and a confetti particle effect is di
 
 Scripts are located in the [following folder](./Assets/Scripts).
 
-![token_platformer](https://github.com/user-attachments/assets/526eb633-0961-4fbe-a48d-db3ea8b0b2d3)
+![image](https://github.com/user-attachments/assets/a6190bb3-5188-486b-b309-053fbf64a4a6)
+
 
