@@ -1,4 +1,4 @@
-Final Project for ICS223 - "Token Platformer"
+## Final Project for ICS223 - "Token Platformer"
 
 The player's objective is to collect all coins and then to find their friend BMO.
 The player can jump, dash, attack (both by jumping on enemies and by using his sword), and drop down from platforms.
